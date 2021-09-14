@@ -4,6 +4,10 @@
 
 ![qgis_interface_01](./qgis_inter_01.png)
 
+## Painéis e Toolbars
+
+![qgis_interface_02](.\figs\PanelsToolbars.jpg)
+
 ## Formatos de arquivos
 
 ### Vetoriais
