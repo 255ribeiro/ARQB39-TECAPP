@@ -21,5 +21,6 @@ PMS - Estrutura de   Urbana: ``` http://mapeamento.salvador.ba.gov.br/emu ```<br
 PMS - Classes Base do Mapeamento Topográfico: - CBGE ``` http://mapeamento.salvador.ba.gov.br/cbge ```<br>
 PMS - Cultura e Lazer: ``` http://mapeamento.salvador.ba.gov.br/laz```<br>
 
+### Configurações
 
-
+[wfs config xml](.\qgis_config\Cartografia_Salvador.xml)
