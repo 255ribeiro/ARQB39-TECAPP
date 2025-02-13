@@ -23,4 +23,4 @@ PMS - Cultura e Lazer: ``` http://mapeamento.salvador.ba.gov.br/laz```<br>
 
 ### Configurações
 
-[wfs config xml](./qgis_config/Cartografia_Salvador.xml)
+[WFS - Cartografia Salvador - Qgis config xml](./qgis_config/Cartografia_Salvador.xml)
