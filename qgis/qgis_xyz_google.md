@@ -16,6 +16,6 @@ Google Satellite Hybrid:    ```https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z
 Google Terrain:             ```https://mt1.google.com/vt/lyrs=p&x={x}&y={y}&z={z}               ```<br>
 Google Roads:               ```https://mt1.google.com/vt/lyrs=h&x={x}&y={y}&z={z}               ```<br>
 
------
+### Configurações
 
-[XYZ config xml](qgis_config/qgis_XYZ_blocks_config.xml)
+Baixar arquivo [XYZ config xml](qgis_config/qgis_XYZ_blocks_config.xml) para facilitar a configuração.
