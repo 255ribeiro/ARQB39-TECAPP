@@ -132,6 +132,3 @@ __________________________
 ### Qgis
 
 1. [Introdução](./qgis/qgis.md)
-2. [Mapas do Google](./qgis/qgis_xyz_google.md)
-3. [Serviços de Cartografia da PMS](./qgis/Cartografica_PMS.md)
-
