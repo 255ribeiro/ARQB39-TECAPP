@@ -1,4 +1,4 @@
-# Adicionando mapas do Google ao Qgis 3
+# Adicionando mapas do Google ao Qgis 3.x
 
 ![-](.\figs\qgis_xyz.jpg)
 
@@ -15,3 +15,7 @@ Google Satellite:           ```http://www.google.cn/maps/vt?lyrs=s@189&gl=cn&x={
 Google Satellite Hybrid:    ```https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}               ```<br>
 Google Terrain:             ```https://mt1.google.com/vt/lyrs=p&x={x}&y={y}&z={z}               ```<br>
 Google Roads:               ```https://mt1.google.com/vt/lyrs=h&x={x}&y={y}&z={z}               ```<br>
+
+-----
+
+[XYZ config xml](qgis_config/qgis_XYZ_blocks_config.xml)
