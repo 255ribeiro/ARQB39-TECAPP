@@ -15,6 +15,7 @@ Os elementos da interface são divididos entre paineis (panels) e barras de ferr
 ## Formatos de arquivos
 
 ### Vetoriais
+
 1. [Shapefiles](https://pt.wikipedia.org/wiki/Shapefile)
    - Exemplos de shapefile
 
@@ -23,11 +24,11 @@ Os elementos da interface são divididos entre paineis (panels) e barras de ferr
         [shape_RMS](./BaseSSA.zip)
 
 2. [Geopackages](https://www.geopackage.org/)
-   
+
    - Exemplo de Geopackage
 
 3. [Geojson](https://geojson.org/)
-   
+
    - Exemplo de GeoJson
         [Municípios da Bahia](https://raw.githubusercontent.com/tbrugz/geodata-br/master/geojson/geojs-29-mun.json)
 
