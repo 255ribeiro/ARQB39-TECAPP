@@ -8,6 +8,14 @@ O software é amplamente utilizado por profissionais em áreas como planejamento
 
 O QGIS é licenciado sob a GNU GPL, o que permite seu uso, modificação e distribuição gratuitamente. Sua funcionalidade é ampliada por uma vasta comunidade de desenvolvedores voluntários que contribuem com plugins, correções de bugs e documentação. A plataforma permite operações de geoprocessamento, como buffer, interseção e união, além de suportar análises espaciais, temporais e a criação de mapas temáticos com personalização de simbologia e rotulagem. O software também integra-se com outras ferramentas de código aberto, como GRASS GIS e PostGIS, potencializando suas capacidades analíticas.
 
+## Site oficial
+
+[https://qgis.org/](https://qgis.org/)
+
+## Página de download
+
+[https://qgis.org/download/](https://qgis.org/download/)
+
 ## Interface e arquivos
 
 [Interface e Arquivos](./qgis_interface.md)
