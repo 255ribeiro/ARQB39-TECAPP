@@ -8,8 +8,14 @@ O software é amplamente utilizado por profissionais em áreas como planejamento
 
 O QGIS é licenciado sob a GNU GPL, o que permite seu uso, modificação e distribuição gratuitamente. Sua funcionalidade é ampliada por uma vasta comunidade de desenvolvedores voluntários que contribuem com plugins, correções de bugs e documentação. A plataforma permite operações de geoprocessamento, como buffer, interseção e união, além de suportar análises espaciais, temporais e a criação de mapas temáticos com personalização de simbologia e rotulagem. O software também integra-se com outras ferramentas de código aberto, como GRASS GIS e PostGIS, potencializando suas capacidades analíticas.
 
-## Obtendo dados via Qgis
+## Interface e arquivos
 
-1. [Interface e Arquivos](./qgis_interface.md)
-2. [Mapas do Google](./qgis_xyz_google.md)
-3. [Serviços de Cartografia da PMS](./Cartografica_PMS.md)
+[Interface e Arquivos](./qgis_interface.md)
+
+## Mapas do Google e modelos digitais de terreno
+
+[Mapas do Google](./qgis_xyz_google.md)
+
+## Cartografia da Prefeitura de Salvador
+
+[Serviços de Cartografia da PMS](./Cartografica_PMS.md)

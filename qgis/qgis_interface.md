@@ -1,10 +1,10 @@
-# Qgis básico
+# Qgis - Primeiro contato
 
 ## Interface
 
 ![qgis_interface_01](./qgis_inter_01.png)
 
-## Painéis e Toolbars
+### Painéis e Toolbars
 
 Clicando com o botão direito nas barras de ferramentas, aparece uma caixa de diálogo onde pode-se habilitar a visualização dos elementos da interface do Qgis.
 
