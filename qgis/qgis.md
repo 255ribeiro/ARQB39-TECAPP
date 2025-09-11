@@ -1,5 +1,7 @@
 # Introdução ao Qgis
 
+[link da playlist](https://www.youtube.com/watch?v=E5oui9HujCo&list=PLdvIeM1XzOJD2vrax4LrkqgRYhkU8hL58)
+
 ## O que é o QGIS?
 
 O QGIS (anteriormente conhecido como Quantum GIS) é um software livre e de código aberto, multiplataforma, que atua como um Sistema de Informação Geográfica (SIG), permitindo a visualização, edição, análise e criação de mapas com dados georreferenciados. Desenvolvido inicialmente por Gary Sherman em 2002, tornou-se um projeto incubado na Open Source Geospatial Foundation (OSGeo) em 2007. Em 2013, com o lançamento da versão 2.0, o nome foi oficialmente alterado para QGIS para evitar confusão entre os nomes.
