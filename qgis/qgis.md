@@ -1,6 +1,6 @@
 # Introdução ao Qgis
 
-[Playlist de tutorial - aquisição de dados urbanos de Salvador](https://www.youtube.com/watch?v=E5oui9HujCo&list=PLdvIeM1XzOJD2vrax4LrkqgRYhkU8hL58)
+[Tutorial em vídeo - aquisição de dados urbanos de Salvador](https://www.youtube.com/watch?v=E5oui9HujCo&list=PLdvIeM1XzOJD2vrax4LrkqgRYhkU8hL58)
 
 ## O que é o QGIS?
 
