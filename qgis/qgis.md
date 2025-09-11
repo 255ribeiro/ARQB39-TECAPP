@@ -22,7 +22,7 @@ O QGIS é licenciado sob a GNU GPL, o que permite seu uso, modificação e distr
 
 [Interface e Arquivos](./qgis_interface.md)
 
-## Mapas do Google e modelo digitais de terreno (Mapzen Global Terrain)
+## Mapas do Google
 
 [Mapas do Google](./qgis_xyz_google.md)
 
