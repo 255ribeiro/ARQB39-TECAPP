@@ -29,3 +29,8 @@ O QGIS é licenciado sob a GNU GPL, o que permite seu uso, modificação e distr
 ## Cartografia da Prefeitura de Salvador
 
 [Serviços de Cartografia da PMS](./Cartografica_PMS.md)
+
+
+## Como recortar uma camada para a extensão da tela
+
+![alt text](figs/recortar_para_extensao.png)
