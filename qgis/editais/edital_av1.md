@@ -28,7 +28,7 @@ Bem-vindo ao edital da Avaliação 1 (Av1) da disciplina ARQB39 - Tecnologias Ap
 - O trabalho pode ser realizado individualmente ou em equipes de Até 4 pessoas
 - Organize suas pastas do projeto
 - Configure o Qgis para acessar os mapas do Google e o servidor da Cartografia da Prefeitura Municipal de Salvador
-- Delimite o terreno no Google Earth, coloque um ponto de referência dentro dos limites do terreno e baixe o arquivo KML com os dados gerados.
+- Delimite um terreno a sua escolha no Google Earth, coloque um ponto de referência dentro dos limites do terreno e baixe o arquivo KML com os dados gerados.
 - Crie um projeto no Qgis, carregue um mapa do Google para referência.
 - Carregue as camadas baixadas do Google Earth
 - Baixe os dados da prefeitura de Salvador relativos ao seu terreno e entorno
