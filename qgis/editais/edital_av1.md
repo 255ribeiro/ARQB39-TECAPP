@@ -4,10 +4,10 @@ Bem-vindo ao edital da Avaliação 1 (Av1) da disciplina ARQB39 - Tecnologias Ap
 
 ## Informações Gerais
 
-- **Disciplina:** ARQB39 - Tecnologias Aplicadas
+- **Disciplina:** Introduçao a Topografia
 - **Avaliação:** Av1
-- **Data de entrega:** 
-- **Local:** _[inserir local]_
+- **Data de entrega:** 30/10/2025
+
 
 ## Conteúdo Avaliado
 
