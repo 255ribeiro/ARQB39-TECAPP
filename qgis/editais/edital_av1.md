@@ -8,20 +8,27 @@ Bem-vindo ao edital da Avaliação 1 (Av1) da disciplina ARQB39 - Tecnologias Ap
 - **Avaliação:** Av1
 - **Data de entrega:** 30/10/2025
 
-
 ## Conteúdo Avaliado
 
-- Introdução ao QGIS
-- Manipulação obtenção
-- Edição de campos de camadas vetoriais
-- Exportação de geometria e informações.
+- Introdução ao QGIS;
+- Manipulação e obtenção de dados geoespaciais;
+- Configurar e acessar servidores de dados raster e vetoriais;
+- Entendimento de conceitos básicos de Geodésia e GIS;
+- Entendimento dos sistemas de coordenadas de referências;
+- apresentação do formato shapefile;
+- relação entre feições (geometria) e campos (dados) de um arquivo shapefile;
+- Edição, criação e conversão de campos em camadas vetoriais;
+- transformação de camadas vetoriais 2D em 3D pelo valor de um campo;
+- Exportação de geometria e informações;
+- geração da geometria 3d de um terreno.
 
 ## Critérios de Avaliação
 
-- Entrega dentro do prazo
-- Clareza e organização dos dados
-- Aplicação correta das ferramentas do QGIS
-- Apresentação dos resultados
+- Entrega dentro do prazo;
+- Clareza e organização dos dados;
+- Aplicação correta das ferramentas do QGIS;
+- Entendimento dos conceitos básicos de Georreferenciamento e Geodésia;
+- Apresentação dos resultados.
 
 ## Orientações
 
@@ -39,5 +46,5 @@ Bem-vindo ao edital da Avaliação 1 (Av1) da disciplina ARQB39 - Tecnologias Ap
 - Em um programa de modelagem 3D, gere uma superfície a partir das curvas de nível 3D
 - Compacte todas as suas pastas e envie um arquivo único na tarefa aberta no ambiente virtual da disciplina
 
-
 ## Boa sorte!
+
