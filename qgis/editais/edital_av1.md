@@ -12,7 +12,7 @@ Bem-vindo ao edital da Avaliação 1 (Av1) da disciplina ARQB39 - Tecnologias Ap
 
 - Introdução ao QGIS;
 - Manipulação e obtenção de dados geoespaciais;
-- Configurar e acessar servidores de dados raster e vetoriais;
+- Experimentar a  servidores de dados raster e vetoriais;
 - Entendimento de conceitos básicos de Geodésia e GIS;
 - Entendimento dos sistemas de coordenadas de referências;
 - apresentação do formato shapefile;
@@ -47,4 +47,3 @@ Bem-vindo ao edital da Avaliação 1 (Av1) da disciplina ARQB39 - Tecnologias Ap
 - Compacte todas as suas pastas e envie um arquivo único na tarefa aberta no ambiente virtual da disciplina
 
 ## Boa sorte!
-
