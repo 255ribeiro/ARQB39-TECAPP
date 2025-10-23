@@ -1,6 +1,6 @@
 # Edital Av1
 
-Bem-vindo ao edital da Avaliação 1 (Av1) da disciplina ARQB39 - Tecnologias Aplicadas.
+Bem-vindo ao edital da Avaliação 1 (Av1) da Introdução à topografia
 
 ## Informações Gerais
 
